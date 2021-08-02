@@ -1,0 +1,7 @@
+# Percent Change
+c = ( (x2 - x1)/x1 ) * 100
+
+# Permutations
+
+# Combinations
+
